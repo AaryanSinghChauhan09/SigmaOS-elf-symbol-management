@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-elf-symbol-management"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS elf-symbol-management component - development"
+
+[lib]
+name = "elf_symbol_management"
+path = "src/lib.rs"
