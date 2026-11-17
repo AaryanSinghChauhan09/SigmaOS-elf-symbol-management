@@ -3,7 +3,7 @@ name = "SigmaOS-elf-symbol-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "elf-symbol-management component"
+description = "ELF Symbol Management"
 upstream = []
 
 [contract]
